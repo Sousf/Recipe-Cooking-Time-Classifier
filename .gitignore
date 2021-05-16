@@ -130,3 +130,11 @@ dmypy.json
 
 # Jupyter notebook
 .ipynb_checkpoints/
+
+result_ALL.csv
+result_Adaboost.csv
+result_LR_RD.csv
+result_LSVC_RD.csv
+result_LinearSVC.csv
+result_RandomForest.csv
+result_logistic.csv
